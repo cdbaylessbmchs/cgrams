@@ -6,7 +6,6 @@
 int main(void){
   int i;
   int c;
-  char g[9] = "not Unix ";
   printf("Input how many GNU expanions you want: \n");
   scanf( "%d", &i);
   printf("GNU's ");
