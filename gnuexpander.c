@@ -12,4 +12,5 @@ int main(void){
   for (c = i; c > 0; c = c-1){
 	  printf("not Unix ");
   }
+  printf("\n");
 }
